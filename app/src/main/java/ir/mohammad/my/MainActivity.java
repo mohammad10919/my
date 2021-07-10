@@ -81,6 +81,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         return true;
     }
 
+//        codi ke default ra tagher mide
 
 
     private void openFragment(Fragment fragment) {
